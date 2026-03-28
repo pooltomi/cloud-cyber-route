@@ -44,5 +44,11 @@ Para mantener la claridad técnica el repositorio se organiza de la siguiente ma
 
 ---
 
+## 📍 Documentación Adicional
+> **[Consultar mi Roadmap Detallado de Especialización Técnica](./ROADMAP.md)**
+> *En este documento detallo los cursos, laboratorios y niveles de conocimiento que estoy transitando.*
+
+---
+
 ## 📫 Conectemos
 [[www.linkedin.com/in/tomas-pabon](https://www.linkedin.com/in/tomas-pabon)] | [pooltomi.github.io]
